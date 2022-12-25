@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d70a9181-6dd3-44e4-835b-f216130ada12" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f15dac4c-8add-4ab2-ae94-0f25cbff2042" name="변경" comment="  테스트">
+      <change beforePath="$PROJECT_DIR$/../myselectshopbeta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myselectshopbeta/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,35 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitToolBoxStore">
-    <option name="recentBranches">
-      <RecentBranches>
-        <option name="branchesForRepo">
-          <list>
-            <RecentBranchesForRepo>
-              <option name="branches">
-                <list>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1670767167" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="practice" />
-                    <option name="lastUsedInstant" value="1670767166" />
-                  </RecentBranch>
-                </list>
-              </option>
-              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/.." />
-            </RecentBranchesForRepo>
-          </list>
-        </option>
-      </RecentBranches>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IgK4UbqISnBvEzY7SiJ3Li5Eb3" />
+  <component name="ProjectId" id="2InZyYbdDI9sQifBb5u72YEjAp3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -58,18 +33,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/Desktop/select/myselectshopbeta/myselectshopbeta",
+    "last_opened_file_path": "C:/Users/User/Desktop/security Project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "spring.configuration.checksum": "5556a30556fa809935d6625fa8bbf8b8"
+    "spring.configuration.checksum": "41d2fc3d168ea5d5adb07938571b894b"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="MyselectshopbetaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="myselectshopbeta.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sparta.myselectshopbeta.MyselectshopbetaApplication" />
+    <configuration name="BoardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="board.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sparta.board.BoardApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,17 +53,22 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="d70a9181-6dd3-44e4-835b-f216130ada12" name="변경" comment="" />
-      <created>1670597595464</created>
+      <changelist id="f15dac4c-8add-4ab2-ae94-0f25cbff2042" name="변경" comment="" />
+      <created>1670819563131</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670597595464</updated>
-      <workItem from="1670597597111" duration="53000" />
-      <workItem from="1670761759231" duration="1428000" />
-      <workItem from="1670819520280" duration="312000" />
-      <workItem from="1670821686587" duration="9123000" />
-      <workItem from="1670853667898" duration="4176000" />
+      <updated>1670819563131</updated>
+      <workItem from="1670819565322" duration="955000" />
+      <workItem from="1670820729733" duration="224000" />
     </task>
+    <task id="LOCAL-00001" summary="  테스트">
+      <created>1670819702338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670819702339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="  테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="  테스트" />
   </component>
 </project>
