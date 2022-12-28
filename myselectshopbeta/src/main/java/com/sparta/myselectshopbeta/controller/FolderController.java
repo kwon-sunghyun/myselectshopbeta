@@ -37,6 +37,7 @@ public class FolderController {
         return folderService.addFolders(folderNames, userDetails.getUsername());
     }
 
+    
     // 회원이 등록한 모든 폴더 조회
     @GetMapping("/folders")
     public List<Folder> getFolders(
